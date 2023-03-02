@@ -1,4 +1,10 @@
 
+
+
+
+
+
+
 /* CSS Variables */
 :root {
     --default-text-color: #fff;
@@ -9,7 +15,7 @@
     --card-color: rgb(18, 21, 21);
     --default-heart-color: rgb(207, 194, 194);
     --heart-red-color: #ec0638;
-    --favourite-section-color: rgb(61, 62, 57);
+    --favourite-section-color: rgb(4, 52, 60);
     --fav-movie-card-color: rgb(12, 11, 11);
     --delete-button-color: #eb6582;
   }
